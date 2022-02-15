@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: red;
+}
+
+.friend{
+    background-color: lightgreen;
+}
+
+.friend > h3{
+text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+h3{
+    text-align: center;
+}
